@@ -1,0 +1,6 @@
+@BenTen_HostAddress = http://localhost:5144
+
+GET {{BenTen_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
