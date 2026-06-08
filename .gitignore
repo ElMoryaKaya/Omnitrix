@@ -1,0 +1,20 @@
+# .env files (Supabase keys, secrets)
+.env
+.env.local
+.env.*.local
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# .NET build artifacts
+**/obj/
+**/bin/
+*.user
+*.suo
+.vs/
+
+# OS
+.DS_Store
+Thumbs.db
